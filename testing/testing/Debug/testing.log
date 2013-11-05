@@ -1,0 +1,45 @@
+﻿Build started 5/11/2013 4:43:35 μμ.
+     1>Project "C:\Users\User\Desktop\testing\testing\testing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
+         Source.c
+     1>c:\users\user\desktop\testing\testing\source.c(226): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(227): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(236): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(237): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(246): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(247): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(255): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(256): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(320): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(451): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(455): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(461): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(465): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(475): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(485): warning C4244: 'function' : conversion from 'double' to 'size_t', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(501): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(506): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(511): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(515): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(519): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(532): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(538): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(544): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(550): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(555): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(567): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(572): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(577): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(581): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(586): warning C4305: '=' : truncation from 'int' to 'char'
+     1>c:\users\user\desktop\testing\testing\source.c(686): warning C4244: 'function' : conversion from 'double' to 'size_t', possible loss of data
+     1>c:\users\user\desktop\testing\testing\source.c(742): warning C4244: 'function' : conversion from 'double' to 'size_t', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\testing\Debug\testing.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\Desktop\testing\Debug\testing.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Desktop\testing\Debug\testing.lib" /MACHINE:X86 Debug\Source.obj
+         testing.vcxproj -> C:\Users\User\Desktop\testing\Debug\testing.exe
+     1>Done Building Project "C:\Users\User\Desktop\testing\testing\testing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.51
