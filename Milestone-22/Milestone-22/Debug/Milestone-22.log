@@ -1,0 +1,53 @@
+﻿Build started 26/11/2013 4:58:23 μμ.
+     1>Project "C:\Users\User\Desktop\Ergastirio Arxitektonikis\Milestone-22\Milestone-22\Milestone-22.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
+         Source.c
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(242): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(271): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(272): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(281): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(282): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(291): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(292): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(300): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(301): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(309): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(319): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(459): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(465): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(468): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(470): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(474): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(477): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(480): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(484): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(492): warning C4244: 'function' : conversion from 'double' to 'size_t', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(756): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(761): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(764): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(766): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(769): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(772): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(775): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(778): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(783): warning C4244: 'function' : conversion from 'double' to 'size_t', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(1044): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(1049): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(1052): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(1054): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(1057): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(1060): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(1063): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(1066): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\desktop\ergastirio arxitektonikis\milestone-22\milestone-22\source.c(1071): warning C4244: 'function' : conversion from 'double' to 'size_t', possible loss of data
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\Ergastirio Arxitektonikis\Milestone-22\Debug\Milestone-22.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\Desktop\Ergastirio Arxitektonikis\Milestone-22\Debug\Milestone-22.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Desktop\Ergastirio Arxitektonikis\Milestone-22\Debug\Milestone-22.lib" /MACHINE:X86 "Debug\Milestone-22.obj"
+         Debug\Source.obj
+         Debug\stdafx.obj
+         Milestone-22.vcxproj -> C:\Users\User\Desktop\Ergastirio Arxitektonikis\Milestone-22\Debug\Milestone-22.exe
+     1>Done Building Project "C:\Users\User\Desktop\Ergastirio Arxitektonikis\Milestone-22\Milestone-22\Milestone-22.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.73

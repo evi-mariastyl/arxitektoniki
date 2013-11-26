@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Milestone-22", "Milestone-22\Milestone-22.vcxproj", "{7139E130-37CC-45F9-91A7-BF51E5B12162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7139E130-37CC-45F9-91A7-BF51E5B12162}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7139E130-37CC-45F9-91A7-BF51E5B12162}.Debug|Win32.Build.0 = Debug|Win32
+		{7139E130-37CC-45F9-91A7-BF51E5B12162}.Release|Win32.ActiveCfg = Release|Win32
+		{7139E130-37CC-45F9-91A7-BF51E5B12162}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
